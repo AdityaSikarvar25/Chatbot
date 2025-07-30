@@ -1,0 +1,2 @@
+Aditya Sikarvar is a Machine Learning Engineer focused on Generative AI, Agentic AI, and end-to-end ML solutions using tools like LangChain and SageMaker.
+He has hands-on experience with AWS infrastructure, ML pipelines, RAG chatbots, and image generation using ComfyUI, backed by certifications including AWS ML Engineer – Associate.
